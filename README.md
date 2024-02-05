@@ -1,6 +1,6 @@
 # Luraph_Deobfuscator
 Automatically deobfuscate Luraph scripts. Tested on Luraph scripts between v11.5 and v11.8.1 (May 1, 2020 release)
-
+m
 Requires Java 8 to run.
 
 # Binary Release (Version 1.0.0)
