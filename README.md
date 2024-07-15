@@ -1,3 +1,6 @@
+# 不提供Luraph相关技术支持和脚本,无论是否付费
+
+
 # Luraph_Deobfuscator
 Automatically deobfuscate Luraph scripts. Tested on Luraph scripts between v11.5 and v11.8.1 (May 1, 2020 release)
 
